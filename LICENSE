@@ -1,0 +1,46 @@
+Transcripta — Licencia de uso no comercial
+Copyright © 2026 YuzVax. Todos los derechos reservados.
+
+1. PERMISOS LIMITADOS
+YuzVax permite usar los materiales propios publicados bajo esta licencia y su
+código fuente exclusivamente para fines personales y educativos no comerciales.
+Se permite realizar copias de respaldo y estudiar y modificar el código para
+uso personal no comercial. También se permite compartir gratuitamente copias
+sin modificar para fines personales o educativos no comerciales. Todas las
+copias permitidas deben conservar este aviso y esta licencia completa.
+
+2. RESTRICCIONES
+Sin autorización previa y expresa por escrito de YuzVax, queda prohibido:
+- Vender, alquilar, licenciar comercialmente o explotar comercialmente estos
+  materiales, su código fuente o cualquier versión modificada o derivada.
+- Sublicenciar o relicenciar los materiales bajo otros términos, incluidos
+  términos que permitan su explotación comercial.
+- Redistribuirlos con fines de lucro, mediante pago, suscripción, inclusión en
+  un producto de pago u otra comercialización directa o indirecta.
+
+La redistribución gratuita permitida no autoriza cobrar por el acceso a una
+copia. Cualquier otro uso o redistribución requiere autorización escrita de
+YuzVax. La publicación en GitHub no concede derechos comerciales. No se otorgan
+derechos sobre la marca Transcripta ni sobre el nombre YuzVax. Los derechos no
+concedidos quedan reservados, sin perjuicio de los derechos irrenunciables que
+reconozca la legislación aplicable.
+
+3. AUSENCIA DE GARANTÍA Y RESPONSABILIDAD
+El programa se ofrece «tal cual», sin garantía expresa ni implícita, en la
+medida permitida por la ley. Las transcripciones y traducciones pueden contener
+errores: el usuario debe revisar los resultados y conservar copias de sus
+archivos. En la medida permitida por la ley, YuzVax no será responsable de daños
+o pérdidas derivados de su uso. Esto no excluye responsabilidades que la ley
+no permita limitar.
+
+4. COMPONENTES DE TERCEROS Y PERMISOS ANTERIORES
+Esta licencia se aplica a los materiales propios de Transcripta publicados
+bajo estos términos. Los componentes independientes de terceros conservan sus
+respectivas licencias y avisos; no se restringen sus derechos con este documento.
+Esta licencia no revoca permisos ya concedidos en versiones anteriores. El
+binario reutilizado sin modificar en la edición v2.0.0 conserva los avisos y
+las licencias de su compilación original, incluidos los términos MIT que
+contenga; este documento no los sustituye retroactivamente.
+
+Esta es una licencia de código disponible para uso no comercial; no es MIT
+ni una licencia de código abierto sin restricciones de uso comercial.
